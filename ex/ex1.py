@@ -1,0 +1,8 @@
+# print "Hello World!"
+# print "Hello Again"
+# print "I like tying this."
+# print "This is fun."
+# print "Yay! Printing."
+# print "I'd much rather you 'not'."
+# print 'I "said" do not tocuh this.'
+print "I am still printing..."
